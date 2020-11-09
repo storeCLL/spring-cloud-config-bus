@@ -1,0 +1,3 @@
+rateLimiter: 
+  timeWindow: 180
+  maxTimes: 100
